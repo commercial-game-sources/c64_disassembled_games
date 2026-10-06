@@ -36,15 +36,11 @@ Robin from the 8bit Show and Tell YouTube channel has done a great dive into thi
 
 <img width="320" height="200" alt="omega_race_01" src="https://github.com/user-attachments/assets/2b89488c-8500-442e-b068-95892f0a2725" /><img width="320" height="200" alt="omega_race_02" src="https://github.com/user-attachments/assets/c80b5846-7037-46c1-a30e-f7aab37cfe91" />
 
-7) BC's Quest for Tires (1983, Sierra Online)
-
-<img width="320" height="200" alt="bcs_quest_for_tires_02" src="https://github.com/user-attachments/assets/f4bf21a3-70a9-42e8-a071-fb9964612a0c" /><img width="320" height="200" alt="bcs_quest_for_tires_03" src="https://github.com/user-attachments/assets/bd0d9205-be6e-4d44-85e0-849a2adfa57a" />
-
-8) Setllar Dodger (1983, Terminal Software)
+7) Setllar Dodger (1983, Terminal Software)
 
 <img width="320" height="200" alt="stellar_dodger_01" src="https://github.com/user-attachments/assets/9da1cb5e-a5b7-4a21-aaf3-039ba23bfe24" /><img width="320" height="200" alt="stellar_dodger_02" src="https://github.com/user-attachments/assets/58117efd-f754-433f-a1ce-5da786d90da1" />
 
-9) Agent USA (1984, Scholastic)
+8) Agent USA (1984, Scholastic)
 <img width="320" height="200" alt="agent_usa_01" src="https://github.com/user-attachments/assets/2d0751c7-6b60-4431-9850-71ca76982376" /><img width="320" height="200" alt="agent_usa_03" src="https://github.com/user-attachments/assets/f89cc638-85a1-4c81-a78c-569509c09622" />
 
 
